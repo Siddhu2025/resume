@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.crimson{
+    color: rgb(255, 17, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#abc{
+    color: rgb(108, 22, 255);
+    text-align: center;
+    border: 3px solid;
+    padding: 2px 2px 2px 2px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    
+}
+
+#sid{
+    color: rgb(61, 121, 37);
+
+}
+
+#sid:hover{
+    color: blue;
+    text-decoration: underline;
+    font-style: italic;
+
+}
+
+.education-container{
+    background-color: aquamarine;
+    
+}
+
+.experience-container{
+    background-color: bisque;
+}
+
+.award-container{
+    background-color: rgb(119, 183, 183);
+}
+
+#nameskill{
+    background-color: aqua;
+}
+
+#but{
+    color: rgb(25, 35, 15);
+}
